@@ -8,6 +8,6 @@ Background images are fetched from Unsplash and is changed according to the City
 
 ## Built With
 
-HTML & CSS
-Javascript
-OpenWeatherMap 
+- HTML & CSS
+- Javascript
+- OpenWeatherMap 
